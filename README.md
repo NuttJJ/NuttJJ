@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nutt Jangjit</h1>
+<h1 align="center">Hi 👋, I'm Nutt Jangjit</h1><br>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NuttJJ](https://github.com/NuttJJ)
